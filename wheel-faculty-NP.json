@@ -1,0 +1,264 @@
+[
+  {
+    "name": "GELLES",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING",
+        "children": [
+          {
+            "colour": "#36483b",
+            "name": "NON PROFIT MANAGEMENT CERT",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 511: PUBLIC ADMINISTRATION",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 513: ADMIN ETHICS-VALUE",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 517: LDRSHP DEV/PUB ORGS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 521: HST/FOUND NONPROFIT",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 533: PUBLIC POL:ORIG/PROC",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 538: ADVCY&PLTCL PRTCPTN NONPR ORGS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 543: CREATING COLLAB COMMUNITIES",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 555: PROGRAM EVAL-MGMT",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "MPA",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "PAP",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+         {
+            "colour": "#C0CCC0",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/=PARTNERS",
+        "children": [
+         {
+            "colour": "#ae4a1c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "INTERNAL COMS &=TASK FORCES",
+        "children": [
+         {
+            "colour": "#fd8d3c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          {
+            "colour": "#fdbe85",
+            "name": "PLACEHOLDER",
+            "size": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SANDBERG",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING",
+        "children": [
+          {
+            "colour": "#36483b",
+            "name": "PA 510: MXD METHDS RSRCH STRAT PA",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 510: EFCTV MKTG NP & PUB SEC",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 513: ADMINISTRATIVE ETHICS & VALUES",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 520: INTRO NON-PROF MGMT",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 528: ORG LDRSHP/NON-PROF",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 540: ADMINISTRATIVE THEORY-BEHAV",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 541: SOCIAL ENTREPRENEURSHIP",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PAH 588: PROG EVAL/MGMT HLTH",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+         {
+            "colour": "#667A66",
+            "name": "NON PROFIT MANAGEMENT CERT",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "MPA",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "PAP, STUDENT COMS",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/=PARTNERS",
+        "children": [
+          {
+            "colour": "#ae4a1c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "INTERNAL COMS &=TASK FORCES",
+        "children": [
+          {
+            "colour": "#fd8d3c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          {
+            "colour": "#fdbe85",
+            "name": "PLACEHOLDER",
+            "size": 50
+          }
+        ]
+      }
+    ]
+  }
+]
