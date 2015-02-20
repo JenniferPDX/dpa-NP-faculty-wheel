@@ -80,12 +80,12 @@
         "children": [
          {
             "colour": "#C0CCC0",
-            "name": "LUND-CHAIX",
+            "name": "LUND CHAIX/NPO/GOVT PARTN. FAILURES",
             "size": 5
           },
          {
             "colour": "#C0CCC0",
-            "name": "BLURRED BOUNDARIES - ORGS",
+            "name": "BLURRED SECTOR BOUNDARIES",
             "size": 5
           },
           {
@@ -106,6 +106,11 @@
           },
          {
             "colour": "#ae4a1c",
+            "name": "BLACK UNITED FUND OF OREGON",
+            "size": 5
+          },
+         {
+            "colour": "#ae4a1c",
             "name": "AFRICA HOUSE/IMMIGRANT REFUGEE ORG",
             "size": 5
           },
@@ -121,7 +126,17 @@
           },
          {
             "colour": "#ae4a1c",
+            "name": "SOLID GROUND CONSULTING",
+            "size": 5
+          },
+         {
+            "colour": "#ae4a1c",
             "name": "LATINO NETWORK",
+            "size": 5
+          },
+         {
+            "colour": "#ae4a1c",
+            "name": "OREGAN HUMANITIES COUNCIL",
             "size": 5
           },
          {
@@ -158,6 +173,21 @@
             "colour": "#ae4a1c",
             "name": "OR PROGRAM EVALUATORS NETWORK",
             "size": 5
+          },
+         {
+            "colour": "#ae4a1c",
+            "name": "PORTLAND HOUSING CENTER",
+            "size": 5
+          },
+         {
+            "colour": "#ae4a1c",
+            "name": "JUVENILE JUSTICE COLL. PARTNERS",
+            "size": 5
+          },
+         {
+            "colour": "#ae4a1c",
+            "name": "WEST COAST NP DATA CONF",
+            "size": 5
           }
         ]
       },
@@ -168,11 +198,6 @@
          {
             "colour": "#fd8d3c",
             "name": "NASSPA NP SECTION, EXBD",
-            "size": 5
-          },
-         {
-            "colour": "#fd8d3c",
-            "name": "ASPA",
             "size": 5
           },
          {
@@ -224,6 +249,11 @@
             "colour": "#fd8d3c",
             "name": "AAUP'S LEGISLATIVE COM",
             "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "PAP ADMISSIONS COM",
+            "size": 5
           }
         ]
       },
@@ -234,7 +264,7 @@
           {
             "colour": "#fdbe85",
             "name": "MPA ACCREDITATION, LEAD",
-            "size": 50
+            "size": 5
           }
         ]
       }
@@ -394,7 +424,7 @@
           {
             "colour": "#fd8d3c",
             "name": "FLEX DEGREE PROPOSAL, LEAD",
-            "size": 50
+            "size": 5
           },
           {
             "colour": "#fd8d3c",
@@ -450,7 +480,7 @@
           {
             "colour": "#fdbe85",
             "name": "CIVIC LEADERSHIP MINOR, DIR",
-            "size": 50
+            "size": 5
           }
         ]
       }
@@ -661,7 +691,7 @@
           {
             "colour": "#fdbe85",
             "name": "PA 509, LEAD",
-            "size": 50
+            "size": 5
           }
         ]
       }
