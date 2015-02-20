@@ -6,266 +6,82 @@
         "colour": "#36483b",
         "name": "TEACHING",
         "children": [
-          {
-            "colour": "#36483b",
-            "name": "NON PROFIT MANAGEMENT CERT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 511: PUBLIC ADMINISTRATION",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 513: ADMIN ETHICS-VALUE",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 517: LDRSHP DEV/PUB ORGS",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 521: HST/FOUND NONPROFIT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 533: PUBLIC POL:ORIG/PROC",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 538: ADVCY&PLTCL PRTCPTN NONPR ORGS",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 543: CREATING COLLAB COMMUNITIES",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 555: PROGRAM EVAL-MGMT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PAP 615: ADMINISTRATIVE PROCESS",
-            "size": 5
-          }
+          { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "PA 511: PUBLIC ADMINISTRATION", "size": 5 },
+          { "colour": "#36483b", "name": "PA 513: ADMIN ETHICS-VALUE", "size": 5 },
+          { "colour": "#36483b", "name": "PA 517: LDRSHP DEV/PUB ORGS", "size": 5 },
+          { "colour": "#36483b", "name": "PA 521: HST/FOUND NONPROFIT", "size": 5 },
+          { "colour": "#36483b", "name": "PA 533: PUBLIC POL:ORIG/PROC", "size": 5 },
+          { "colour": "#36483b", "name": "PA 538: ADVCY&PLTCL PRTCPTN NONPR ORGS", "size": 5 },
+          { "colour": "#36483b", "name": "PA 543: CREATING COLLAB COMMUNITIES", "size": 5 },
+          { "colour": "#36483b", "name": "PA 555: PROGRAM EVAL-MGMT", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 615: ADMINISTRATIVE PROCESS", "size": 5 }
         ]
       },
       {
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          {
-            "colour": "#667A66",
-            "name": "MPA",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "PAP",
-            "size": 5
-          }
+          { "colour": "#667A66", "name": "MPA", "size": 5 },
+          { "colour": "#667A66", "name": "PAP", "size": 5 }
         ]
       },
       {
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
-         {
-            "colour": "#C0CCC0",
-            "name": "LUND CHAIX/NPO/GOVT PARTN. FAILURES",
-            "size": 5
-          },
-         {
-            "colour": "#C0CCC0",
-            "name": "BLURRED SECTOR BOUNDARIES",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "BLIND REVIEWER, NVSQ, NML",
-            "size": 5
-          }
+         { "colour": "#C0CCC0", "name": "LUND CHAIX/NPO/GOVT PARTN. FAILURES", "size": 5 },
+         { "colour": "#C0CCC0", "name": "BLURRED SECTOR BOUNDARIES", "size": 5 },
+          { "colour": "#C0CCC0", "name": "BLIND REVIEWER, NVSQ, NML", "size": 5 }
         ]
       },
       {
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-         {
-            "colour": "#ae4a1c",
-            "name": "ALUNMI FELLOWS NETWORK (160 MEMB)",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "BLACK UNITED FUND OF OREGON",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "AFRICA HOUSE/IMMIGRANT REFUGEE ORG",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "VOA/WOMEN'S TRANSITIONAL HOUSING",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "COMMUNITY PARTNERS REINVESTMENT",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "SOLID GROUND CONSULTING",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "LATINO NETWORK",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "OREGAN HUMANITIES COUNCIL",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "THE URBAN LEAGUE OF PORTLAND",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "MULTNOMAH COUNTY LIBRARY",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "TUALATIN PARKS AND RECREATION",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "ROSEWOOD INITIATIVE",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "OR DOJ CHARITABLE ACTIVITIES DIV",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "CENTER FOR NONPROFIT STEWARDSHIP",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "OR PROGRAM EVALUATORS NETWORK",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "PORTLAND HOUSING CENTER",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "JUVENILE JUSTICE COLL. PARTNERS",
-            "size": 5
-          },
-         {
-            "colour": "#ae4a1c",
-            "name": "WEST COAST NP DATA CONF",
-            "size": 5
-          }
+         { "colour": "#ae4a1c", "name": "ALUNMI FELLOWS NETWORK (160 MEMB)", "size": 5 },
+         { "colour": "#ae4a1c", "name": "BLACK UNITED FUND OF OREGON", "size": 5 },
+         { "colour": "#ae4a1c", "name": "AFRICA HOUSE/IMMIGRANT REFUGEE ORG", "size": 5 },
+         { "colour": "#ae4a1c", "name": "VOA/WOMEN'S TRANSITIONAL HOUSING", "size": 5 },
+         { "colour": "#ae4a1c", "name": "COMMUNITY PARTNERS REINVESTMENT", "size": 5 },
+         { "colour": "#ae4a1c", "name": "SOLID GROUND CONSULTING", "size": 5 },
+         { "colour": "#ae4a1c", "name": "LATINO NETWORK", "size": 5 },
+         { "colour": "#ae4a1c", "name": "OREGAN HUMANITIES COUNCIL", "size": 5 },
+         { "colour": "#ae4a1c", "name": "THE URBAN LEAGUE OF PORTLAND", "size": 5 },
+         { "colour": "#ae4a1c", "name": "MULTNOMAH COUNTY LIBRARY", "size": 5 },
+         { "colour": "#ae4a1c", "name": "TUALATIN PARKS AND RECREATION", "size": 5 },
+         { "colour": "#ae4a1c", "name": "ROSEWOOD INITIATIVE", "size": 5 },
+         { "colour": "#ae4a1c", "name": "OR DOJ CHARITABLE ACTIVITIES DIV", "size": 5 },
+         { "colour": "#ae4a1c", "name": "CENTER FOR NONPROFIT STEWARDSHIP", "size": 5 },
+         { "colour": "#ae4a1c", "name": "OR PROGRAM EVALUATORS NETWORK", "size": 5 },
+         { "colour": "#ae4a1c", "name": "PORTLAND HOUSING CENTER", "size": 5 },
+         { "colour": "#ae4a1c", "name": "JUVENILE JUSTICE COLL. PARTNERS", "size": 5 },
+         { "colour": "#ae4a1c", "name": "WEST COAST NP DATA CONF", "size": 5 }
         ]
       },
       {
         "colour": "#fd8d3c",
         "name": "COMS &=TASK FORCES",
         "children": [
-         {
-            "colour": "#fd8d3c",
-            "name": "NASSPA NP SECTION, EXBD",
-            "size": 5
-          },
-         {
-            "colour": "#fd8d3c",
-            "name": "ASSOC OF RES ON NP/VOL ACTION MEMB",
-            "size": 5
-          },
-         {
-            "colour": "#fd8d3c",
-            "name": "DIVERSITY COM",
-            "size": 5
-          },
-         {
-            "colour": "#fd8d3c",
-            "name": "MARKETING COM",
-            "size": 5
-          },
-         {
-            "colour": "#fd8d3c",
-            "name": "STUDENT ASSESSMENT COM",
-            "size": 5
-          },
-         {
-            "colour": "#fd8d3c",
-            "name": "P & T COMS",
-            "size": 5
-          },
-         {
-            "colour": "#fd8d3c",
-            "name": "SCHOL COM CEASE, RAMALY, FOWLER",
-            "size": 5
-          },
-         {
-            "colour": "#fd8d3c",
-            "name": "DEAN'S COL CERT COM",
-            "size": 5
-          },
-         {
-            "colour": "#fd8d3c",
-            "name": "ACAD APPEAL BD STUDENTS, CHAIR",
-            "size": 5
-          },
-         {
-            "colour": "#fd8d3c",
-            "name": "DEAN'S DIVERSITY COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "AAUP'S LEGISLATIVE COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "PAP ADMISSIONS COM",
-            "size": 5
-          }
+         { "colour": "#fd8d3c", "name": "NASSPA NP SECTION, EXBD", "size": 5 },
+         { "colour": "#fd8d3c", "name": "ASSOC OF RES ON NP/VOL ACTION MEMB", "size": 5 },
+         { "colour": "#fd8d3c", "name": "DIVERSITY COM", "size": 5 },
+         { "colour": "#fd8d3c", "name": "MARKETING COM", "size": 5 },
+         { "colour": "#fd8d3c", "name": "STUDENT ASSESSMENT COM", "size": 5 },
+         { "colour": "#fd8d3c", "name": "P & T COMS", "size": 5 },
+         { "colour": "#fd8d3c", "name": "SCHOL COM CEASE, RAMALY, FOWLER", "size": 5 },
+         { "colour": "#fd8d3c", "name": "DEAN'S COL CERT COM", "size": 5 },
+         { "colour": "#fd8d3c", "name": "ACAD APPEAL BD STUDENTS, CHAIR", "size": 5 },
+         { "colour": "#fd8d3c", "name": "DEAN'S DIVERSITY COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "AAUP'S LEGISLATIVE COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "PAP ADMISSIONS COM", "size": 5 }
         ]
       },
       {
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
-          {
-            "colour": "#fdbe85",
-            "name": "MPA ACCREDITATION, LEAD",
-            "size": 5
-          }
+          { "colour": "#fdbe85", "name": "MPA ACCREDITATION, LEAD", "size": 5 }
         ]
       }
     ]
@@ -277,211 +93,71 @@
         "colour": "#36483b",
         "name": "TEACHING/=GEN & CIVIC LEAD",
         "children": [
-          {
-            "colour": "#36483b",
-            "name": "CIVIC LEADERSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "NON PROFIT MGT CERT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "ADDITIONAL UG COURSES",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 513: ADMIN ETHICS / VALUE",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 523: NGOS NONPROFIT ON WORLD STAGE",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 536: STRATEGIC PLANNING",
-            "size": 5
-          }
+          { "colour": "#36483b", "name": "CIVIC LEADERSHIP", "size": 5 },
+          { "colour": "#36483b", "name": "NON PROFIT MGT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "ADDITIONAL UG COURSES", "size": 5 },
+          { "colour": "#36483b", "name": "PA 513: ADMIN ETHICS / VALUE", "size": 5 },
+          { "colour": "#36483b", "name": "PA 523: NGOS NONPROFIT ON WORLD STAGE", "size": 5 },
+          { "colour": "#36483b", "name": "PA 536: STRATEGIC PLANNING", "size": 5 }
         ]
       },
       {
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          {
-            "colour": "#667A66",
-            "name": "MPA",
-            "size": 5
-          }
+          { "colour": "#667A66", "name": "MPA", "size": 5 }
         ]
       },
       {
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
-          {
-            "colour": "#C0CCC0",
-            "name": "CPS (HATFIELD)",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "FACULTY DEV: COM ENGAGE",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "INT'L ASSOC/ CIVIC ENGAGE TRAIN",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "CULTURAL THEORY",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "SCHOLARSHIP OF ENGAGEMENT",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "COMMUNITY-BASED RESEARCH",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "STUDENT (CIVIC) LEADERSHIP DEV",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "INTERNATIONAL PROGRAM DEV",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "SOCIAL SUSTAINABILITY",
-            "size": 5
-          }
+          { "colour": "#C0CCC0", "name": "CPS (HATFIELD)", "size": 5 },
+          { "colour": "#C0CCC0", "name": "FACULTY DEV: COM ENGAGE", "size": 5 },
+          { "colour": "#C0CCC0", "name": "INT'L ASSOC/ CIVIC ENGAGE TRAIN", "size": 5 },
+          { "colour": "#C0CCC0", "name": "CULTURAL THEORY", "size": 5 },
+          { "colour": "#C0CCC0", "name": "SCHOLARSHIP OF ENGAGEMENT", "size": 5 },
+          { "colour": "#C0CCC0", "name": "COMMUNITY-BASED RESEARCH", "size": 5 },
+          { "colour": "#C0CCC0", "name": "STUDENT (CIVIC) LEADERSHIP DEV", "size": 5 },
+          { "colour": "#C0CCC0", "name": "INTERNATIONAL PROGRAM DEV", "size": 5 },
+          { "colour": "#C0CCC0", "name": "SOCIAL SUSTAINABILITY", "size": 5 }
         ]
       },
       {
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-          {
-            "colour": "#ae4a1c",
-            "name": "US ST DEPT, MIDDLE EAST PARTNERSHP INIT",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "INTERNATIONALIZATION COUNCIL",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "COP OFFICE OF NEIGHBORHOOD INVOLVEMENT",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "EL TECNOLOGICO DE MONTERREY",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "MERCY CORP",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "ISS, NEIGHBORHOOD INIT",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "OR ST COM, CIVIC ENGAGEMENT",
-            "size": 5
-          }
+          { "colour": "#ae4a1c", "name": "US ST DEPT, MIDDLE EAST PARTNERSHP INIT", "size": 5 },
+          { "colour": "#ae4a1c", "name": "INTERNATIONALIZATION COUNCIL", "size": 5 },
+          { "colour": "#ae4a1c", "name": "COP OFFICE OF NEIGHBORHOOD INVOLVEMENT", "size": 5 },
+          { "colour": "#ae4a1c", "name": "EL TECNOLOGICO DE MONTERREY", "size": 5 },
+          { "colour": "#ae4a1c", "name": "MERCY CORP", "size": 5 },
+          { "colour": "#ae4a1c", "name": "ISS, NEIGHBORHOOD INIT", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OR ST COM, CIVIC ENGAGEMENT", "size": 5 }
         ]
       },
       {
         "colour": "#fd8d3c",
         "name": "COMS &=TASK FORCES",
         "children": [
-          {
-            "colour": "#fd8d3c",
-            "name": "UNDERGRAD DEGREE, LEAD",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "FLEX DEGREE PROPOSAL, LEAD",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "STUDENT ASSESSMENT COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "STRAT ENROL MGT",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "P AND T REVISION COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "U-WIDE PARTNERSHIPS COUNCIL",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "INT'L ASSOC RES COM ENGAGE, SEC CO CHAIR",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "PA ALUMNI LIASON",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "RAMALEY SCHOL COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "JRNL PUB SCHOL HIGH ED, SR ED BRD",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "DPA COMPETENCIES RUBRICS GRP",
-            "size": 5
-          }
+          { "colour": "#fd8d3c", "name": "UNDERGRAD DEGREE, LEAD", "size": 5 },
+          { "colour": "#fd8d3c", "name": "FLEX DEGREE PROPOSAL, LEAD", "size": 5 },
+          { "colour": "#fd8d3c", "name": "STUDENT ASSESSMENT COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "STRAT ENROL MGT", "size": 5 },
+          { "colour": "#fd8d3c", "name": "P AND T REVISION COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "U-WIDE PARTNERSHIPS COUNCIL", "size": 5 },
+          { "colour": "#fd8d3c", "name": "INT'L ASSOC RES COM ENGAGE, SEC CO CHAIR", "size": 5 },
+          { "colour": "#fd8d3c", "name": "PA ALUMNI LIASON", "size": 5 },
+          { "colour": "#fd8d3c", "name": "RAMALEY SCHOL COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "JRNL PUB SCHOL HIGH ED, SR ED BRD", "size": 5 },
+          { "colour": "#fd8d3c", "name": "DPA COMPETENCIES RUBRICS GRP", "size": 5 }
         ]
       },
       {
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
-          {
-            "colour": "#fdbe85",
-            "name": "CIVIC LEADERSHIP MINOR, DIR",
-            "size": 5
-          }
+          { "colour": "#fdbe85", "name": "CIVIC LEADERSHIP MINOR, DIR", "size": 5 }
         ]
       }
     ]
@@ -493,206 +169,70 @@
         "colour": "#36483b",
         "name": "TEACHING",
         "children": [
-          {
-            "colour": "#36483b",
-            "name": "DEVELOPING ONLINE COURSEWORK",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 510: MXD METHDS RSRCH STRAT PA",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 510: EFCTV MKTG NP & PUB SEC",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 513: ADMINISTRATIVE ETHICS & VALUES",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 520: INTRO NON-PROF MGMT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 528: ORG LDRSHP/NON-PROF",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 540: ADMINISTRATIVE THEORY-BEHAV",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 541: SOCIAL ENTREPRENEURSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PAH 588: PROG EVAL/MGMT HLTH",
-            "size": 5
-          }
+          { "colour": "#36483b", "name": "DEVELOPING ONLINE COURSEWORK", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: MXD METHDS RSRCH STRAT PA", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: EFCTV MKTG NP & PUB SEC", "size": 5 },
+          { "colour": "#36483b", "name": "PA 513: ADMINISTRATIVE ETHICS & VALUES", "size": 5 },
+          { "colour": "#36483b", "name": "PA 520: INTRO NON-PROF MGMT", "size": 5 },
+          { "colour": "#36483b", "name": "PA 528: ORG LDRSHP/NON-PROF", "size": 5 },
+          { "colour": "#36483b", "name": "PA 540: ADMINISTRATIVE THEORY-BEHAV", "size": 5 },
+          { "colour": "#36483b", "name": "PA 541: SOCIAL ENTREPRENEURSHIP", "size": 5 },
+          { "colour": "#36483b", "name": "PAH 588: PROG EVAL/MGMT HLTH", "size": 5 }
         ]
       },
       {
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-         {
-            "colour": "#667A66",
-            "name": "NON PROFIT MANAGEMENT CERT",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "MPA",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "PAP, STUDENT COMS",
-            "size": 5
-          }
+         { "colour": "#667A66", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#667A66", "name": "MPA", "size": 5 },
+          { "colour": "#667A66", "name": "PAP, STUDENT COMS", "size": 5 }
         ]
       },
       {
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
-          {
-            "colour": "#C0CCC0",
-            "name": "OHA-HEATH REFORM/PATIENT HOME CARE",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "CRTICAL THEORY ON ENTREPRENEURSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "CRITICAL THEORY ON NP PROFESSIONALS",
-            "size": 5
-          }
+          { "colour": "#C0CCC0", "name": "OHA-HEATH REFORM/PATIENT HOME CARE", "size": 5 },
+          { "colour": "#C0CCC0", "name": "CRTICAL THEORY ON ENTREPRENEURSHIP", "size": 5 },
+          { "colour": "#C0CCC0", "name": "CRITICAL THEORY ON NP PROFESSIONALS", "size": 5 }
         ]
       },
       {
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-          {
-            "colour": "#ae4a1c",
-            "name": "ISS, CULLY ECODIST",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "ATHLETICS FOR CANCER",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "LIVING CULLY",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "PDX Q CTR",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "RAPHAEL HOUSE",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "VERMONT HILLS FAMILY CTR",
-            "size": 5
-          }
+          { "colour": "#ae4a1c", "name": "ISS, CULLY ECODIST", "size": 5 },
+          { "colour": "#ae4a1c", "name": "ATHLETICS FOR CANCER", "size": 5 },
+          { "colour": "#ae4a1c", "name": "LIVING CULLY", "size": 5 },
+          { "colour": "#ae4a1c", "name": "PDX Q CTR", "size": 5 },
+          { "colour": "#ae4a1c", "name": "RAPHAEL HOUSE", "size": 5 },
+          { "colour": "#ae4a1c", "name": "VERMONT HILLS FAMILY CTR", "size": 5 }
         ]
       },
       {
         "colour": "#fd8d3c",
         "name": "COMS &=TASK FORCES",
         "children": [
-          {
-            "colour": "#fd8d3c",
-            "name": "ARNOVA COM THEORIES/ISSUES/BOUND",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "CRIT PERSPEC GRP, FOUND MEMB",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "ASPA, EX MEMB, NP",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "PA MARKETING COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "PA ADMISSIONS COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "ADV BD YOUNG NP NETWORK, PDX",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "PROG ADV DOM/ WILL VALLEY DEV OFF",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "STUDENT ASSESSMENT COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "CURRICULUM COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "POLY SCI THEORY SEARCH COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "SCHOLARSHIP COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "DPA COMPETENCIES RUBRICS GRP",
-            "size": 5
-          }
+          { "colour": "#fd8d3c", "name": "ARNOVA COM THEORIES/ISSUES/BOUND", "size": 5 },
+          { "colour": "#fd8d3c", "name": "CRIT PERSPEC GRP, FOUND MEMB", "size": 5 },
+          { "colour": "#fd8d3c", "name": "ASPA, EX MEMB, NP", "size": 5 },
+          { "colour": "#fd8d3c", "name": "PA MARKETING COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "PA ADMISSIONS COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "ADV BD YOUNG NP NETWORK, PDX", "size": 5 },
+          { "colour": "#fd8d3c", "name": "PROG ADV DOM/ WILL VALLEY DEV OFF", "size": 5 },
+          { "colour": "#fd8d3c", "name": "STUDENT ASSESSMENT COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "CURRICULUM COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "POLY SCI THEORY SEARCH COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "SCHOLARSHIP COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "DPA COMPETENCIES RUBRICS GRP", "size": 5 }
         ]
       },
       {
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
-          {
-            "colour": "#fdbe85",
-            "name": "PA 509, LEAD",
-            "size": 5
-          }
+          { "colour": "#fdbe85", "name": "PA 509, LEAD", "size": 5 }
         ]
       }
     ]
