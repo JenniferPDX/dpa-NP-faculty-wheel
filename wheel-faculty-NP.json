@@ -1,4 +1,6 @@
-[
+{
+      "name": "Non Profit",
+      "children": [
   {
     "name": "GELLES",
     "children": [
@@ -238,3 +240,4 @@
     ]
   }
 ]
+}
