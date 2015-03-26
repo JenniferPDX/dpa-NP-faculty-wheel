@@ -22,8 +22,8 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "MPA", "size": 5 },
-          { "colour": "#667A66", "name": "PAP", "size": 5 }
+          { "colour": "#667A66", "name": "MPA, PAP", "size": 5 },
+          { "colour": "#667A66", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 }
         ]
       },
       {
@@ -32,7 +32,7 @@
         "children": [
          { "colour": "#C0CCC0", "name": "LUND CHAIX/NPO/GOVT PARTN. FAILURES", "size": 5 },
          { "colour": "#C0CCC0", "name": "BLURRED SECTOR BOUNDARIES", "size": 5 },
-          { "colour": "#C0CCC0", "name": "BLIND REVIEWER, NVSQ, NML", "size": 5 }
+         { "colour": "#C0CCC0", "name": "NVSQ, NML, BLIND REVIEWER", "size": 5 }
         ]
       },
       {
@@ -81,12 +81,13 @@
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
+          { "colour": "#fdbe85", "name": "NON PROFIT, FACULTY LEAD", "size": 5 },
           { "colour": "#fdbe85", "name": "MPA ACCREDITATION, LEAD", "size": 5 }
         ]
       }
     ]
   },
-{
+  {
     "name": "KECSKES",
     "children": [
       {
@@ -127,9 +128,9 @@
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-          { "colour": "#ae4a1c", "name": "US ST DEPT, MIDDLE EAST PARTNERSHP INIT", "size": 5 },
+          { "colour": "#ae4a1c", "name": "US ST DEPT, MID-EAST PRTNRSHP", "size": 5 },
           { "colour": "#ae4a1c", "name": "INTERNATIONALIZATION COUNCIL", "size": 5 },
-          { "colour": "#ae4a1c", "name": "COP OFFICE OF NEIGHBORHOOD INVOLVEMENT", "size": 5 },
+          { "colour": "#ae4a1c", "name": "COP OFF OF NEIGHBORHD INVOLVE", "size": 5 },
           { "colour": "#ae4a1c", "name": "EL TECNOLOGICO DE MONTERREY", "size": 5 },
           { "colour": "#ae4a1c", "name": "MERCY CORP", "size": 5 },
           { "colour": "#ae4a1c", "name": "ISS, NEIGHBORHOOD INIT", "size": 5 },
@@ -146,7 +147,7 @@
           { "colour": "#fd8d3c", "name": "STRAT ENROL MGT", "size": 5 },
           { "colour": "#fd8d3c", "name": "P AND T REVISION COM", "size": 5 },
           { "colour": "#fd8d3c", "name": "U-WIDE PARTNERSHIPS COUNCIL", "size": 5 },
-          { "colour": "#fd8d3c", "name": "INT'L ASSOC RES COM ENGAGE, SEC CO CHAIR", "size": 5 },
+          { "colour": "#fd8d3c", "name": "INT'L ASSOC RES COM ENGAGE, CO-CHAIR", "size": 5 },
           { "colour": "#fd8d3c", "name": "PA ALUMNI LIASON", "size": 5 },
           { "colour": "#fd8d3c", "name": "RAMALEY SCHOL COM", "size": 5 },
           { "colour": "#fd8d3c", "name": "JRNL PUB SCHOL HIGH ED, SR ED BRD", "size": 5 },
@@ -185,8 +186,7 @@
         "name": "STUDENT ADVISING",
         "children": [
          { "colour": "#667A66", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
-          { "colour": "#667A66", "name": "MPA", "size": 5 },
-          { "colour": "#667A66", "name": "PAP, STUDENT COMS", "size": 5 }
+          { "colour": "#667A66", "name": "MPA, PAP", "size": 5 }
         ]
       },
       {
