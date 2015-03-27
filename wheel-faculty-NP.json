@@ -48,6 +48,9 @@
          { "colour": "#ae4a1c", "name": "COMMUNITY PARTNERS REINVESTMENT", "size": 5 },
          { "colour": "#ae4a1c", "name": "SOLID GROUND CONSULTING", "size": 5 },
          { "colour": "#ae4a1c", "name": "LATINO NETWORK", "size": 5 },
+         { "colour": "#ae4a1c", "name": "PROVIDENCE HLTH DIVERS OFF", "size": 5 },
+         { "colour": "#ae4a1c", "name": "PORTLAND HOUSING CENTER", "size": 5 },
+         { "colour": "#ae4a1c", "name": "CFA", "size": 5 },
          { "colour": "#ae4a1c", "name": "OREGAN HUMANITIES COUNCIL", "size": 5 },
          { "colour": "#ae4a1c", "name": "THE URBAN LEAGUE OF PORTLAND", "size": 5 },
          { "colour": "#ae4a1c", "name": "MULTNOMAH COUNTY LIBRARY", "size": 5 },
@@ -63,7 +66,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
          { "colour": "#fd8d3c", "name": "NASSPA NP SECTION, EXBD", "size": 5 },
          { "colour": "#fd8d3c", "name": "ASSOC OF RES ON NP/VOL ACTION MEMB", "size": 5 },
@@ -108,6 +111,7 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
+          { "colour": "#36483b", "name": "CIVIC LEADERSHIP", "size": 5 },
           { "colour": "#667A66", "name": "MPA", "size": 5 }
         ]
       },
@@ -123,7 +127,8 @@
           { "colour": "#C0CCC0", "name": "COMMUNITY-BASED RESEARCH", "size": 5 },
           { "colour": "#C0CCC0", "name": "STUDENT (CIVIC) LEADERSHIP DEV", "size": 5 },
           { "colour": "#C0CCC0", "name": "INTERNATIONAL PROGRAM DEV", "size": 5 },
-          { "colour": "#C0CCC0", "name": "SOCIAL SUSTAINABILITY", "size": 5 }
+          { "colour": "#C0CCC0", "name": "SOCIAL SUSTAINABILITY", "size": 5 },
+          { "colour": "#C0CCC0", "name": "JRNL PUB SCHOL HIGH ED, SR ED BRD", "size": 5 }
         ]
       },
       {
@@ -136,12 +141,13 @@
           { "colour": "#ae4a1c", "name": "EL TECNOLOGICO DE MONTERREY", "size": 5 },
           { "colour": "#ae4a1c", "name": "MERCY CORP", "size": 5 },
           { "colour": "#ae4a1c", "name": "ISS, NEIGHBORHOOD INIT", "size": 5 },
-          { "colour": "#ae4a1c", "name": "OR ST COM, CIVIC ENGAGEMENT", "size": 5 }
+          { "colour": "#ae4a1c", "name": "OR ST COM, CIVIC ENGAGEMENT", "size": 5 },
+          { "colour": "#ae4a1c", "name": "IARSLCE", "size": 5 }
         ]
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "UNDERGRAD DEGREE, LEAD", "size": 5 },
           { "colour": "#fd8d3c", "name": "FLEX DEGREE PROPOSAL, LEAD", "size": 5 },
@@ -152,7 +158,6 @@
           { "colour": "#fd8d3c", "name": "INT'L ASSOC RES COM ENGAGE, CO-CHAIR", "size": 5 },
           { "colour": "#fd8d3c", "name": "PA ALUMNI LIASON", "size": 5 },
           { "colour": "#fd8d3c", "name": "RAMALEY SCHOL COM", "size": 5 },
-          { "colour": "#fd8d3c", "name": "JRNL PUB SCHOL HIGH ED, SR ED BRD", "size": 5 },
           { "colour": "#fd8d3c", "name": "DPA COMPETENCIES RUBRICS GRP", "size": 5 }
         ]
       },
@@ -187,8 +192,8 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-         { "colour": "#667A66", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
-          { "colour": "#667A66", "name": "MPA, PAP", "size": 5 }
+          { "colour": "#667A66", "name": "MPA, PAP", "size": 5 },
+         { "colour": "#667A66", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 }
         ]
       },
       {
@@ -214,7 +219,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "ARNOVA COM THEORIES/ISSUES/BOUND", "size": 5 },
           { "colour": "#fd8d3c", "name": "CRIT PERSPEC GRP, FOUND MEMB", "size": 5 },
