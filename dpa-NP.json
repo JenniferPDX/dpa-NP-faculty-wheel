@@ -17,6 +17,7 @@
           { "colour": "#36483b", "name": "PA 538: ADVCY&PLTCL PRTCPTN NONPR ORGS", "size": 5 },
           { "colour": "#36483b", "name": "PA 543: CREATING COLLAB COMMUNITIES", "size": 5 },
           { "colour": "#36483b", "name": "PA 555: PROGRAM EVAL-MGMT", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 605: READING & CONFERENCE", "size": 5 },
           { "colour": "#36483b", "name": "PAP 615: ADMINISTRATIVE PROCESS", "size": 5 }
         ]
       },
@@ -111,8 +112,8 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#36483b", "name": "CIVIC LEADERSHIP", "size": 5 },
-          { "colour": "#667A66", "name": "MPA", "size": 5 }
+          { "colour": "#667A66", "name": "MPA, PAP", "size": 5 },
+          { "colour": "#36483b", "name": "CIVIC LEADERSHIP", "size": 5 }
         ]
       },
       {
@@ -185,6 +186,7 @@
           { "colour": "#36483b", "name": "PA 528: ORG LDRSHP/NON-PROF", "size": 5 },
           { "colour": "#36483b", "name": "PA 540: ADMINISTRATIVE THEORY-BEHAV", "size": 5 },
           { "colour": "#36483b", "name": "PA 541: SOCIAL ENTREPRENEURSHIP", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 605: READING & CONFERENCE", "size": 5 },
           { "colour": "#36483b", "name": "PAH 588: PROG EVAL/MGMT HLTH", "size": 5 }
         ]
       },
